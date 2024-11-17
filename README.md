@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá eu sou o Anderson!<br><br>Atualmente aprendendo Java com Spring, buscando ser um desenvolvedor backend sólido<br><br>
+Olá eu sou o Anderson!<br><br>Desenvolvedor Back-End Java com Spring Boot.<br><br>
 
 
 ## 🌐 Socials:
